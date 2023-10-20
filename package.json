@@ -1,0 +1,31 @@
+{
+  "name": "cordova-image-handler",
+  "version": "0.0.1",
+  "description": "Cordova Image Handler",
+  "cordova": {
+    "id": "cordova-image-handler",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaman365/Cordova-Plugin-Image-Handler.git"
+  },
+  "keywords": [
+    "cordova",
+    "image",
+    "handler",
+    "image handler",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "toboqus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaman365/Cordova-Plugin-Image-Handler/issues"
+  },
+  "homepage": "https://github.com/shaman365/Cordova-Plugin-Image-Handler#readme"
+}
